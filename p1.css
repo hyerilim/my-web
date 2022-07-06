@@ -1,0 +1,68 @@
+.fullscreen {
+    width: 98%;
+    height: 100%;
+    background-color: aquamarine;
+    position: fixed;
+}
+
+header {
+    margin:10px; 
+    border: 5px solid black; 
+    padding: 15px;
+    height: 100px; 
+    background-color: orange;
+    font-size: 30px;
+    text-align: center;
+}
+
+nav {
+    height: 100px; 
+    background-color: orange;
+}
+
+.div1 {
+    height: 515px; 
+    background-color: yellowgreen;
+}
+
+.div2 {
+    float:right; 
+    height: 200px; 
+    width: 80%; 
+    background-color: skyblue;
+}
+
+section {
+    float:left; 
+    height:315px; 
+    background-color: red;
+}
+
+
+.div3 {
+    height:515px; 
+    background-color: orangered;
+}
+
+.article1 {
+    height:315px;
+    background-color: green;
+}
+
+
+.article2 {
+    height: 200px; 
+    background-color: goldenrod ;
+}
+
+aside {
+    height: 515px; 
+    float:left; 
+    width: 20%; 
+    background-color: blue;
+}
+
+footer {
+    height: 20px; 
+    background-color: purple;
+}
