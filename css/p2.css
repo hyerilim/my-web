@@ -1,0 +1,73 @@
+header {
+    background: linear-gradient(rgb(146, 255, 4), white);
+    font-size: 25px;
+    font-weight: 30;
+    height: 200px;
+    text-align: center;
+}
+
+nav {
+    height: 100px;   
+    background: linear-gradient(rgb(255, 255, 255), rgb(250, 221, 127), white);
+    font-size: 40px;
+    text-align: center;
+}
+
+.div1 {height: 450px;}
+
+.div2 {
+    float:right; 
+    height: 450px; 
+    width: 80%; 
+    background-color: rgb(212, 84, 84);
+}
+
+.section1 {
+    width: 20%; 
+    float:left;
+    height:450px; 
+    background: linear-gradient(white, rgb(80, 200, 100));
+}
+
+.section2 {
+    width: 20%; 
+    float:left; 
+    height:450px; 
+    background: linear-gradient(white, rgb(100, 200, 100));
+}
+.section3 {
+    width: 20%; 
+    float:left; 
+    height:450px; 
+    background: linear-gradient(white, rgb(120, 200, 100));
+}
+
+.section4 {
+    width: 20%; 
+    float:left; 
+    height:450px; 
+    background: linear-gradient(white, rgb(150, 200, 100));
+}
+
+.section5 {
+
+    height:450px; 
+    background: linear-gradient(white,rgb(180, 200, 100));
+}
+
+
+aside {
+    height: 450px; 
+    float:left; 
+    width: 20%; 
+    background: linear-gradient(white, rgb(50, 200, 100));
+}
+
+.footer1 {
+    margin:10px; 
+    border: 5px solid grey; 
+    padding: 15px;
+    height: 30px; 
+    background-color: white;
+}
+

@@ -1,7 +1,7 @@
 .fullscreen {
     width: 98%;
     height: 100%;
-    background-color: aquamarine;
+    background-color: rgb(60, 146, 245);
     position: fixed;
 }
 
@@ -11,13 +11,15 @@ header {
     padding: 15px;
     height: 100px; 
     background-color: orange;
-    font-size: 30px;
+    font-size: 70px;
     text-align: center;
 }
 
 nav {
     height: 100px; 
-    background-color: orange;
+    background-color: rgb(253, 123, 62);
+    font-size: 30px;
+    text-align: center
 }
 
 .div1 {
@@ -46,23 +48,27 @@ section {
 
 .article1 {
     height:315px;
-    background-color: green;
+    background-color: rgb(226, 233, 164);
 }
 
 
 .article2 {
     height: 200px; 
-    background-color: goldenrod ;
+    background-color: rgb(114, 218, 221) ;
+    text-align: center;
 }
 
 aside {
     height: 515px; 
     float:left; 
     width: 20%; 
-    background-color: blue;
+    background-color: rgb(248, 192, 192);
 }
 
 footer {
+    margin:10px; 
+    border: 5px solid grey; 
+    padding: 15px;
     height: 20px; 
-    background-color: purple;
+    background-color: white;
 }
